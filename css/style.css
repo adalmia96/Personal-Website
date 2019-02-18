@@ -8,6 +8,7 @@ html,
 body {
   margin: 0;
   background-image: url(../Images/abstract-geometric-background.jpg);
+  background-repeat: repeat-y;
   background-size:100% 100%;
 }
 
