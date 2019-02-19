@@ -3,7 +3,7 @@
 particlesJS("aa_particles", {
   "particles": {
     "number": {
-      "value": 160,
+      "value": 250,
       "density": {
         "enable": true,
         "value_area": 800
