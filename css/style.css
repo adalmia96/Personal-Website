@@ -7,7 +7,7 @@
 html,
 body {
   margin: 0;
-  background:#ffffff; 
+  background:#ffffff;
   background-repeat: repeat-y;
   /*background-size:100% 100%;*/
 }
@@ -29,7 +29,7 @@ canvas {
 .aa_sec {
   position: absolute;
   z-index: 5;
-  top: 50%;
+  top: 70%;
   right: 0;
   left: 0;
   margin: 0  auto;
@@ -50,7 +50,7 @@ canvas {
 .aa_of {
   padding: 1rem;
   color: #ffffff;
-  background: #583862;
+  background: #2FB2FE;
 }
 
 .aa_ahmadawais {
